@@ -1,7 +1,9 @@
 ## AI Email Auto Responder
 
 After hearing how AI can respond to emails for you I asked Claude 3.7 to generate for me an AI Auto Responder.
-This is what it implemented (almost entirely).
+This is what it implemented (almost entirely). With much tweaking I got it working...
+
+![image](images/Screenshot_1.png)
 
 ### Where Claude fell short
 
