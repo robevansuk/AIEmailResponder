@@ -1,0 +1,7 @@
+.gradle/
+.idea/
+build/
+out/
+tokens/
+src/main/resources/credentials/gmail-credentials.json
+tokens/gmail/StoredCredential
